@@ -1,7 +1,9 @@
 # 💻 Carvalho Dev - Códigos do Canal
 
-![GitHub repo size](https://img.shields.io/github/repo-size/davi-carvalho-dev/carvalho-dev-canal?color=%238257e5&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/davi-carvalho-dev/carvalho-dev-canal?color=%238257e5&style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/github/repo-size/davi-carvalho-dev/carvalho-dev-canal?color=%238257e5&style=for-the-badge" alt="GitHub repo size">
+  <img src="https://img.shields.io/github/stars/davi-carvalho-dev/carvalho-dev-canal?color=%238257e5&style=for-the-badge" alt="GitHub stars">
+</p>
 
 Bem-vindo ao repositório oficial do canal **Carvalho Dev**! Aqui eu centralizo todos os códigos-fonte, projetos, desafios e dicas práticas que apresento nos meus vídeos do TikTok.
 
@@ -27,7 +29,7 @@ Como este é um repositório centralizado, você pode baixar o código de um pro
 1. **Baixar tudo de uma vez:**
    Clone o repositório completo na sua máquina rodando no terminal:
    ```bash
-   git clone [https://github.com/davi-carvalho-dev/NOME-DO-REPO.git](https://github.com/davi-carvalho-dev/NOME-DO-REPO.git)
+   git clone https://github.com/davi-carvalho-dev/carvalho-dev-canal.git
 
 
 2. **Copiar manualmente:**
@@ -40,8 +42,10 @@ Se preferir, navegue até a pasta do projeto que você quer através do site do 
 
 Estou construindo minha evolução no desenvolvimento Front-End em público e compartilhando tudo para ajudar a comunidade!
 
+<div align="center">
  <a href="mailto:davicarvalhodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  <a href="https://www.linkedin.com/in/davi-carvalho-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="https://discord.com/users/695431975175061505" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
 Desenvolvido por **Davi Carvalho**.
+</div>
